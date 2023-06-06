@@ -1,0 +1,26 @@
+{
+  "name": "ecompare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ortal96/ecompare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ortal96/ecompare/issues"
+  },
+  "homepage": "https://github.com/ortal96/ecompare#readme",
+  "dependencies": {
+    "@woocommerce/woocommerce-rest-api": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/woocommerce__woocommerce-rest-api": "^1.0.2",
+    "typescript": "^5.1.3"
+  }
+}
